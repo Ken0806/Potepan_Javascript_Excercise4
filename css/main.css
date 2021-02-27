@@ -1,0 +1,53 @@
+/* ********************************************** */
+/* Default */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #fff;
+  font-family: Verdana, "ＭＳ Ｐゴシック", sans-serif;
+  font-size: 80%;
+}
+html {
+  overflow-y: scroll;
+}
+
+p,
+li,
+dt,
+dl {
+  line-height: 1.6;
+}
+p {
+  margin: 0 0 1em 0;
+}
+li {
+  list-style-type: none;
+}
+img {
+  border: 0;
+}
+address {
+  font-style: normal;
+}
+.clear {
+  clear: both;
+}
+
+/* ********************************************** */
+body {
+  background-color: rgba(0, 0, 0, 0.85);
+  max-width: 700px;
+  color: #fff;
+  margin: 10px 60px 0;
+}
+
+.slider li img {
+  width: 100%;
+}
+
+.title h1 {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
